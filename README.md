@@ -6,7 +6,7 @@
 # Shift Lama: C
 
 # Video Demo Aplikasi #
-
+https://github.com/user-attachments/assets/798764f0-2eed-479e-8a32-97d59baa15a6
 
 #  Spesifkasi API yg digunakan #
 Aplikasi ini menggunakan REST API sederhana yang dibuat dengan PHP Native yang disimpan dalam www pada laragon dengan nama folder "api_responsi".
